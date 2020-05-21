@@ -51,7 +51,7 @@ def generate_code():
 
 def generate_clues(code,user_guess):
     if(code==user_guess):
-        return("CODE CORACKED!")
+        return("CODE CRACKED!")
 
     clues = []
 
